@@ -2,6 +2,7 @@ set expandtab
 set tabstop=4
 set hls nois
 set relativenumber
+set ttimeoutlen=100
 colorscheme ron
 
 " search tags file at the current file directory, up to the root directory.
