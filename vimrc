@@ -2,6 +2,7 @@ set expandtab
 set tabstop=4
 set hls nois
 set relativenumber
+set number
 set ttimeoutlen=100
 colorscheme ron
 
